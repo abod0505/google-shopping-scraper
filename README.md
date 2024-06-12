@@ -2,6 +2,8 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+
 
 As part of [**E-Commerce Scraper API**](https://github.com/oxylabs/ecommerce-scraper-api-guide), [Google Shopping Scraper](https://oxy.yt/qadX) extracts timely e-commerce data in raw HTML or structured JSON format. The scraper offers a maintenance-free data collection infrastructure that automates the bulk of underlying processes, from sending HTTP requests to data parsing. 
 
@@ -238,3 +240,5 @@ pprint(response.json())
 Code examples for other languages can be found [**here.**](https://github.com/oxylabs/google-shopping-scraper/tree/main/code%20examples).
 
 If you have questions or concerns about Google Shopping Scraper or associated features, get in touch via (support@oxylabs.io) or through the live chat on our [**website**](https://oxylabs.io/).
+
+Also, check this tutorial on [pypi](https://pypi.org/project/google-shopping-scraper-api/)
